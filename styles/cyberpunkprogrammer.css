@@ -1,5 +1,36 @@
-/* Cyber Punk Programmer CSS */
+/* Cyber punk programmer styles */
 
 .cyberpunkprogrammer {
-	font-family: Raleway;
+	font-family: monospace;
+	background-color: #000100;
+}
+
+.cyberpunkprogrammer h1 {
+	color: #6862af;
+	padding-top: 2em;
+	text-align: center;
+}
+
+.cyberpunkprogrammer p {
+	color: #6862af;
+	padding-left: 16em;
+	padding-right: 16em;
+}
+
+.cyberpunkprogrammer ul li:before {
+	color: #6862af;
+	content: "> ";
+}
+
+.cyberpunkprogrammer ul {
+	padding-left: 16em;
+        padding-right: 16em;
+}
+
+.cyberpunkprogrammer li {
+        padding-top: 1em;
+}
+
+.cyberpunkprogrammer a {
+	color: #7e78ba;
 }
