@@ -1,2 +1,2 @@
 # cyberpunkprogrammer.github.io
-My public resume website.
+My public portfolio website.
